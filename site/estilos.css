@@ -5,6 +5,8 @@ body{
     color:#fff;
 }
 
+
+
 /**HEADER**/
 #header-nav{
     background-color: #f6b319;
@@ -12,9 +14,10 @@ body{
     border: 0;
 }
 
-#logo-img{
-    background: url("../images/logo-restaurante.png") no-repeat;
+#logo{
+ background: url("../images/logo-rest.jpg") no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
+   
 }
